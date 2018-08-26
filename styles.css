@@ -6,7 +6,10 @@ h1 {
     color: blue;
     margin-bottom: 10px;
 }
-p {
+.p1 {
     border: 1px black solid;
     padding: 2px;
+}
+#p2{
+    
 }
